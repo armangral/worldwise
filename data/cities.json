@@ -13,76 +13,16 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Sant Llorenc de Cerdans",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-13T20:50:46.683Z",
+      "notes": "nice",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "42.37627687601045",
+        "lng": "2.594129585388148"
       },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Villamontan de la Valduerna",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-13T20:01:58.313Z",
-      "notes": "haha",
-      "position": {
-        "lat": "42.312642096136976",
-        "lng": "-5.994100360520654"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Europe/Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-13T20:05:50.177Z",
-      "notes": "very good",
-      "position": {
-        "lat": "42.26386935421341",
-        "lng": "-9.005893590691244"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Cangas del Narcea",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-13T20:10:07.439Z",
-      "notes": "good",
-      "position": {
-        "lat": "43.200671748099886",
-        "lng": "-6.475044803364631"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Terni",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2023-06-12T20:15:15.000Z",
-      "notes": "good",
-      "position": {
-        "lat": "42.58682551000445",
-        "lng": "12.618747297038823"
-      },
-      "id": 98443201
+      "id": 73930386
     }
   ]
 }
